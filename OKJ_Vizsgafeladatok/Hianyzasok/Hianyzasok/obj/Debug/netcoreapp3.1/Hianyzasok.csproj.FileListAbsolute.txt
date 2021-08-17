@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Hianyzasok\Hianyzasok\bin\Debug\netcoreapp3.1\Hianyzasok.exe
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Hianyzasok\Hianyzasok\bin\Debug\netcoreapp3.1\Hianyzasok.deps.json
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Hianyzasok\Hianyzasok\bin\Debug\netcoreapp3.1\Hianyzasok.runtimeconfig.json
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Hianyzasok\Hianyzasok\bin\Debug\netcoreapp3.1\Hianyzasok.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Hianyzasok\Hianyzasok\bin\Debug\netcoreapp3.1\Hianyzasok.dll
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Hianyzasok\Hianyzasok\bin\Debug\netcoreapp3.1\Hianyzasok.pdb
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Hianyzasok\Hianyzasok\obj\Debug\netcoreapp3.1\Hianyzasok.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Hianyzasok\Hianyzasok\obj\Debug\netcoreapp3.1\Hianyzasok.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Hianyzasok\Hianyzasok\obj\Debug\netcoreapp3.1\Hianyzasok.AssemblyInfo.cs
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Hianyzasok\Hianyzasok\obj\Debug\netcoreapp3.1\Hianyzasok.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Hianyzasok\Hianyzasok\obj\Debug\netcoreapp3.1\Hianyzasok.dll
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Hianyzasok\Hianyzasok\obj\Debug\netcoreapp3.1\Hianyzasok.pdb
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Hianyzasok\Hianyzasok\obj\Debug\netcoreapp3.1\Hianyzasok.genruntimeconfig.cache

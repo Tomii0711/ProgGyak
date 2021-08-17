@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Kiralynok\Kiralynok\bin\Debug\netcoreapp3.1\Kiralynok.exe
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Kiralynok\Kiralynok\bin\Debug\netcoreapp3.1\Kiralynok.deps.json
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Kiralynok\Kiralynok\bin\Debug\netcoreapp3.1\Kiralynok.runtimeconfig.json
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Kiralynok\Kiralynok\bin\Debug\netcoreapp3.1\Kiralynok.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Kiralynok\Kiralynok\bin\Debug\netcoreapp3.1\Kiralynok.dll
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Kiralynok\Kiralynok\bin\Debug\netcoreapp3.1\Kiralynok.pdb
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Kiralynok\Kiralynok\obj\Debug\netcoreapp3.1\Kiralynok.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Kiralynok\Kiralynok\obj\Debug\netcoreapp3.1\Kiralynok.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Kiralynok\Kiralynok\obj\Debug\netcoreapp3.1\Kiralynok.AssemblyInfo.cs
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Kiralynok\Kiralynok\obj\Debug\netcoreapp3.1\Kiralynok.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Kiralynok\Kiralynok\obj\Debug\netcoreapp3.1\Kiralynok.dll
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Kiralynok\Kiralynok\obj\Debug\netcoreapp3.1\Kiralynok.pdb
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Kiralynok\Kiralynok\obj\Debug\netcoreapp3.1\Kiralynok.genruntimeconfig.cache

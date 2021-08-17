@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Lift\Lift\bin\Debug\netcoreapp3.1\Lift.exe
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Lift\Lift\bin\Debug\netcoreapp3.1\Lift.deps.json
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Lift\Lift\bin\Debug\netcoreapp3.1\Lift.runtimeconfig.json
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Lift\Lift\bin\Debug\netcoreapp3.1\Lift.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Lift\Lift\bin\Debug\netcoreapp3.1\Lift.dll
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Lift\Lift\bin\Debug\netcoreapp3.1\Lift.pdb
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Lift\Lift\obj\Debug\netcoreapp3.1\Lift.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Lift\Lift\obj\Debug\netcoreapp3.1\Lift.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Lift\Lift\obj\Debug\netcoreapp3.1\Lift.AssemblyInfo.cs
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Lift\Lift\obj\Debug\netcoreapp3.1\Lift.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Lift\Lift\obj\Debug\netcoreapp3.1\Lift.dll
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Lift\Lift\obj\Debug\netcoreapp3.1\Lift.pdb
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Lift\Lift\obj\Debug\netcoreapp3.1\Lift.genruntimeconfig.cache
