@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Vasmegye\Vasmegye\bin\Debug\netcoreapp3.1\Vasmegye.exe
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Vasmegye\Vasmegye\bin\Debug\netcoreapp3.1\Vasmegye.deps.json
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Vasmegye\Vasmegye\bin\Debug\netcoreapp3.1\Vasmegye.runtimeconfig.json
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Vasmegye\Vasmegye\bin\Debug\netcoreapp3.1\Vasmegye.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Vasmegye\Vasmegye\bin\Debug\netcoreapp3.1\Vasmegye.dll
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Vasmegye\Vasmegye\bin\Debug\netcoreapp3.1\Vasmegye.pdb
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Vasmegye\Vasmegye\obj\Debug\netcoreapp3.1\Vasmegye.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Vasmegye\Vasmegye\obj\Debug\netcoreapp3.1\Vasmegye.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Vasmegye\Vasmegye\obj\Debug\netcoreapp3.1\Vasmegye.AssemblyInfo.cs
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Vasmegye\Vasmegye\obj\Debug\netcoreapp3.1\Vasmegye.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Vasmegye\Vasmegye\obj\Debug\netcoreapp3.1\Vasmegye.dll
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Vasmegye\Vasmegye\obj\Debug\netcoreapp3.1\Vasmegye.pdb
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Vasmegye\Vasmegye\obj\Debug\netcoreapp3.1\Vasmegye.genruntimeconfig.cache

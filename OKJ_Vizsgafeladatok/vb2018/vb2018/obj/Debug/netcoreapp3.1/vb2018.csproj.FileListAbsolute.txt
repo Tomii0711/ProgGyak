@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Tomi\VS\Gyak\vb2018\vb2018\bin\Debug\netcoreapp3.1\vb2018.exe
+C:\Users\admin\Desktop\Tomi\VS\Gyak\vb2018\vb2018\bin\Debug\netcoreapp3.1\vb2018.deps.json
+C:\Users\admin\Desktop\Tomi\VS\Gyak\vb2018\vb2018\bin\Debug\netcoreapp3.1\vb2018.runtimeconfig.json
+C:\Users\admin\Desktop\Tomi\VS\Gyak\vb2018\vb2018\bin\Debug\netcoreapp3.1\vb2018.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Tomi\VS\Gyak\vb2018\vb2018\bin\Debug\netcoreapp3.1\vb2018.dll
+C:\Users\admin\Desktop\Tomi\VS\Gyak\vb2018\vb2018\bin\Debug\netcoreapp3.1\vb2018.pdb
+C:\Users\admin\Desktop\Tomi\VS\Gyak\vb2018\vb2018\obj\Debug\netcoreapp3.1\vb2018.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Tomi\VS\Gyak\vb2018\vb2018\obj\Debug\netcoreapp3.1\vb2018.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Tomi\VS\Gyak\vb2018\vb2018\obj\Debug\netcoreapp3.1\vb2018.AssemblyInfo.cs
+C:\Users\admin\Desktop\Tomi\VS\Gyak\vb2018\vb2018\obj\Debug\netcoreapp3.1\vb2018.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Tomi\VS\Gyak\vb2018\vb2018\obj\Debug\netcoreapp3.1\vb2018.dll
+C:\Users\admin\Desktop\Tomi\VS\Gyak\vb2018\vb2018\obj\Debug\netcoreapp3.1\vb2018.pdb
+C:\Users\admin\Desktop\Tomi\VS\Gyak\vb2018\vb2018\obj\Debug\netcoreapp3.1\vb2018.genruntimeconfig.cache

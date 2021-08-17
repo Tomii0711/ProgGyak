@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Tomi\VS\Snooker\Snooker\bin\Debug\netcoreapp3.1\Snooker.exe
+C:\Users\admin\Desktop\Tomi\VS\Snooker\Snooker\bin\Debug\netcoreapp3.1\Snooker.deps.json
+C:\Users\admin\Desktop\Tomi\VS\Snooker\Snooker\bin\Debug\netcoreapp3.1\Snooker.runtimeconfig.json
+C:\Users\admin\Desktop\Tomi\VS\Snooker\Snooker\bin\Debug\netcoreapp3.1\Snooker.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Tomi\VS\Snooker\Snooker\bin\Debug\netcoreapp3.1\Snooker.dll
+C:\Users\admin\Desktop\Tomi\VS\Snooker\Snooker\bin\Debug\netcoreapp3.1\Snooker.pdb
+C:\Users\admin\Desktop\Tomi\VS\Snooker\Snooker\obj\Debug\netcoreapp3.1\Snooker.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Tomi\VS\Snooker\Snooker\obj\Debug\netcoreapp3.1\Snooker.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Tomi\VS\Snooker\Snooker\obj\Debug\netcoreapp3.1\Snooker.AssemblyInfo.cs
+C:\Users\admin\Desktop\Tomi\VS\Snooker\Snooker\obj\Debug\netcoreapp3.1\Snooker.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Tomi\VS\Snooker\Snooker\obj\Debug\netcoreapp3.1\Snooker.dll
+C:\Users\admin\Desktop\Tomi\VS\Snooker\Snooker\obj\Debug\netcoreapp3.1\Snooker.pdb
+C:\Users\admin\Desktop\Tomi\VS\Snooker\Snooker\obj\Debug\netcoreapp3.1\Snooker.genruntimeconfig.cache
