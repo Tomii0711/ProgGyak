@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Tomi\VS\Gyak\HegyekMo\HegyekMo\bin\Debug\netcoreapp3.1\HegyekMo.exe
+C:\Users\admin\Desktop\Tomi\VS\Gyak\HegyekMo\HegyekMo\bin\Debug\netcoreapp3.1\HegyekMo.deps.json
+C:\Users\admin\Desktop\Tomi\VS\Gyak\HegyekMo\HegyekMo\bin\Debug\netcoreapp3.1\HegyekMo.runtimeconfig.json
+C:\Users\admin\Desktop\Tomi\VS\Gyak\HegyekMo\HegyekMo\bin\Debug\netcoreapp3.1\HegyekMo.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Tomi\VS\Gyak\HegyekMo\HegyekMo\bin\Debug\netcoreapp3.1\HegyekMo.dll
+C:\Users\admin\Desktop\Tomi\VS\Gyak\HegyekMo\HegyekMo\bin\Debug\netcoreapp3.1\HegyekMo.pdb
+C:\Users\admin\Desktop\Tomi\VS\Gyak\HegyekMo\HegyekMo\obj\Debug\netcoreapp3.1\HegyekMo.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Tomi\VS\Gyak\HegyekMo\HegyekMo\obj\Debug\netcoreapp3.1\HegyekMo.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Tomi\VS\Gyak\HegyekMo\HegyekMo\obj\Debug\netcoreapp3.1\HegyekMo.AssemblyInfo.cs
+C:\Users\admin\Desktop\Tomi\VS\Gyak\HegyekMo\HegyekMo\obj\Debug\netcoreapp3.1\HegyekMo.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Tomi\VS\Gyak\HegyekMo\HegyekMo\obj\Debug\netcoreapp3.1\HegyekMo.dll
+C:\Users\admin\Desktop\Tomi\VS\Gyak\HegyekMo\HegyekMo\obj\Debug\netcoreapp3.1\HegyekMo.pdb
+C:\Users\admin\Desktop\Tomi\VS\Gyak\HegyekMo\HegyekMo\obj\Debug\netcoreapp3.1\HegyekMo.genruntimeconfig.cache

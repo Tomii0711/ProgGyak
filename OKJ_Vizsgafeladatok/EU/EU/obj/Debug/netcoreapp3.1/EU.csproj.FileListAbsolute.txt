@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Tomi\VS\EU\EU\bin\Debug\netcoreapp3.1\EU.exe
+C:\Users\admin\Desktop\Tomi\VS\EU\EU\bin\Debug\netcoreapp3.1\EU.deps.json
+C:\Users\admin\Desktop\Tomi\VS\EU\EU\bin\Debug\netcoreapp3.1\EU.runtimeconfig.json
+C:\Users\admin\Desktop\Tomi\VS\EU\EU\bin\Debug\netcoreapp3.1\EU.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Tomi\VS\EU\EU\bin\Debug\netcoreapp3.1\EU.dll
+C:\Users\admin\Desktop\Tomi\VS\EU\EU\bin\Debug\netcoreapp3.1\EU.pdb
+C:\Users\admin\Desktop\Tomi\VS\EU\EU\obj\Debug\netcoreapp3.1\EU.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Tomi\VS\EU\EU\obj\Debug\netcoreapp3.1\EU.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Tomi\VS\EU\EU\obj\Debug\netcoreapp3.1\EU.AssemblyInfo.cs
+C:\Users\admin\Desktop\Tomi\VS\EU\EU\obj\Debug\netcoreapp3.1\EU.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Tomi\VS\EU\EU\obj\Debug\netcoreapp3.1\EU.dll
+C:\Users\admin\Desktop\Tomi\VS\EU\EU\obj\Debug\netcoreapp3.1\EU.pdb
+C:\Users\admin\Desktop\Tomi\VS\EU\EU\obj\Debug\netcoreapp3.1\EU.genruntimeconfig.cache

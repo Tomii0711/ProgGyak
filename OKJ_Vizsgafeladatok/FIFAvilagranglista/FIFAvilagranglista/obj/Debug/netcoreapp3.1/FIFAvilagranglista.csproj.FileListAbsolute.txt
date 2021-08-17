@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Tomi\VS\FIFAvilagranglista\FIFAvilagranglista\bin\Debug\netcoreapp3.1\FIFAvilagranglista.exe
+C:\Users\admin\Desktop\Tomi\VS\FIFAvilagranglista\FIFAvilagranglista\bin\Debug\netcoreapp3.1\FIFAvilagranglista.deps.json
+C:\Users\admin\Desktop\Tomi\VS\FIFAvilagranglista\FIFAvilagranglista\bin\Debug\netcoreapp3.1\FIFAvilagranglista.runtimeconfig.json
+C:\Users\admin\Desktop\Tomi\VS\FIFAvilagranglista\FIFAvilagranglista\bin\Debug\netcoreapp3.1\FIFAvilagranglista.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Tomi\VS\FIFAvilagranglista\FIFAvilagranglista\bin\Debug\netcoreapp3.1\FIFAvilagranglista.dll
+C:\Users\admin\Desktop\Tomi\VS\FIFAvilagranglista\FIFAvilagranglista\bin\Debug\netcoreapp3.1\FIFAvilagranglista.pdb
+C:\Users\admin\Desktop\Tomi\VS\FIFAvilagranglista\FIFAvilagranglista\obj\Debug\netcoreapp3.1\FIFAvilagranglista.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Tomi\VS\FIFAvilagranglista\FIFAvilagranglista\obj\Debug\netcoreapp3.1\FIFAvilagranglista.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Tomi\VS\FIFAvilagranglista\FIFAvilagranglista\obj\Debug\netcoreapp3.1\FIFAvilagranglista.AssemblyInfo.cs
+C:\Users\admin\Desktop\Tomi\VS\FIFAvilagranglista\FIFAvilagranglista\obj\Debug\netcoreapp3.1\FIFAvilagranglista.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Tomi\VS\FIFAvilagranglista\FIFAvilagranglista\obj\Debug\netcoreapp3.1\FIFAvilagranglista.dll
+C:\Users\admin\Desktop\Tomi\VS\FIFAvilagranglista\FIFAvilagranglista\obj\Debug\netcoreapp3.1\FIFAvilagranglista.pdb
+C:\Users\admin\Desktop\Tomi\VS\FIFAvilagranglista\FIFAvilagranglista\obj\Debug\netcoreapp3.1\FIFAvilagranglista.genruntimeconfig.cache
