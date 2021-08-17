@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Tomi\VS\Gyak\AutóVerseny\AutóVerseny\bin\Debug\netcoreapp3.1\AutóVerseny.exe
+C:\Users\admin\Desktop\Tomi\VS\Gyak\AutóVerseny\AutóVerseny\bin\Debug\netcoreapp3.1\AutóVerseny.deps.json
+C:\Users\admin\Desktop\Tomi\VS\Gyak\AutóVerseny\AutóVerseny\bin\Debug\netcoreapp3.1\AutóVerseny.runtimeconfig.json
+C:\Users\admin\Desktop\Tomi\VS\Gyak\AutóVerseny\AutóVerseny\bin\Debug\netcoreapp3.1\AutóVerseny.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Tomi\VS\Gyak\AutóVerseny\AutóVerseny\bin\Debug\netcoreapp3.1\AutóVerseny.dll
+C:\Users\admin\Desktop\Tomi\VS\Gyak\AutóVerseny\AutóVerseny\bin\Debug\netcoreapp3.1\AutóVerseny.pdb
+C:\Users\admin\Desktop\Tomi\VS\Gyak\AutóVerseny\AutóVerseny\obj\Debug\netcoreapp3.1\AutóVerseny.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Tomi\VS\Gyak\AutóVerseny\AutóVerseny\obj\Debug\netcoreapp3.1\AutóVerseny.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Tomi\VS\Gyak\AutóVerseny\AutóVerseny\obj\Debug\netcoreapp3.1\AutóVerseny.AssemblyInfo.cs
+C:\Users\admin\Desktop\Tomi\VS\Gyak\AutóVerseny\AutóVerseny\obj\Debug\netcoreapp3.1\AutóVerseny.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Tomi\VS\Gyak\AutóVerseny\AutóVerseny\obj\Debug\netcoreapp3.1\AutóVerseny.dll
+C:\Users\admin\Desktop\Tomi\VS\Gyak\AutóVerseny\AutóVerseny\obj\Debug\netcoreapp3.1\AutóVerseny.pdb
+C:\Users\admin\Desktop\Tomi\VS\Gyak\AutóVerseny\AutóVerseny\obj\Debug\netcoreapp3.1\AutóVerseny.genruntimeconfig.cache

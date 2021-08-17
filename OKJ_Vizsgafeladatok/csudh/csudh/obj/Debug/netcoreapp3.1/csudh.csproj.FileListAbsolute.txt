@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Tomi\VS\Gyak\csudh\csudh\bin\Debug\netcoreapp3.1\csudh.exe
+C:\Users\admin\Desktop\Tomi\VS\Gyak\csudh\csudh\bin\Debug\netcoreapp3.1\csudh.deps.json
+C:\Users\admin\Desktop\Tomi\VS\Gyak\csudh\csudh\bin\Debug\netcoreapp3.1\csudh.runtimeconfig.json
+C:\Users\admin\Desktop\Tomi\VS\Gyak\csudh\csudh\bin\Debug\netcoreapp3.1\csudh.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Tomi\VS\Gyak\csudh\csudh\bin\Debug\netcoreapp3.1\csudh.dll
+C:\Users\admin\Desktop\Tomi\VS\Gyak\csudh\csudh\bin\Debug\netcoreapp3.1\csudh.pdb
+C:\Users\admin\Desktop\Tomi\VS\Gyak\csudh\csudh\obj\Debug\netcoreapp3.1\csudh.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Tomi\VS\Gyak\csudh\csudh\obj\Debug\netcoreapp3.1\csudh.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Tomi\VS\Gyak\csudh\csudh\obj\Debug\netcoreapp3.1\csudh.AssemblyInfo.cs
+C:\Users\admin\Desktop\Tomi\VS\Gyak\csudh\csudh\obj\Debug\netcoreapp3.1\csudh.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Tomi\VS\Gyak\csudh\csudh\obj\Debug\netcoreapp3.1\csudh.dll
+C:\Users\admin\Desktop\Tomi\VS\Gyak\csudh\csudh\obj\Debug\netcoreapp3.1\csudh.pdb
+C:\Users\admin\Desktop\Tomi\VS\Gyak\csudh\csudh\obj\Debug\netcoreapp3.1\csudh.genruntimeconfig.cache
