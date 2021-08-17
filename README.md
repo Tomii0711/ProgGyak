@@ -1,0 +1,2 @@
+# ProgGyak
+Gyakorló feladatok megoldásai
