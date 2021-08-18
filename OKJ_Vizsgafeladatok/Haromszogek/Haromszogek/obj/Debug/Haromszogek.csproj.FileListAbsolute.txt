@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Haromszogek\Haromszogek\obj\Debug\Haromszogek.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Haromszogek\Haromszogek\obj\Debug\Haromszogek.Form1.resources
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Haromszogek\Haromszogek\obj\Debug\Haromszogek.Properties.Resources.resources
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Haromszogek\Haromszogek\obj\Debug\Haromszogek.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Haromszogek\Haromszogek\obj\Debug\Haromszogek.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Haromszogek\Haromszogek\bin\Debug\Haromszogek.exe.config
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Haromszogek\Haromszogek\bin\Debug\Haromszogek.exe
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Haromszogek\Haromszogek\bin\Debug\Haromszogek.pdb
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Haromszogek\Haromszogek\obj\Debug\Haromszogek.exe
+C:\Users\admin\Desktop\Tomi\VS\Gyak\Haromszogek\Haromszogek\obj\Debug\Haromszogek.pdb
