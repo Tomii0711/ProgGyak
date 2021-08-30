@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\kosar2004\kosar2004\bin\Debug\netcoreapp3.1\kosar2004.exe
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\kosar2004\kosar2004\bin\Debug\netcoreapp3.1\kosar2004.deps.json
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\kosar2004\kosar2004\bin\Debug\netcoreapp3.1\kosar2004.runtimeconfig.json
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\kosar2004\kosar2004\bin\Debug\netcoreapp3.1\kosar2004.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\kosar2004\kosar2004\bin\Debug\netcoreapp3.1\kosar2004.dll
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\kosar2004\kosar2004\bin\Debug\netcoreapp3.1\kosar2004.pdb
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\kosar2004\kosar2004\obj\Debug\netcoreapp3.1\kosar2004.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\kosar2004\kosar2004\obj\Debug\netcoreapp3.1\kosar2004.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\kosar2004\kosar2004\obj\Debug\netcoreapp3.1\kosar2004.AssemblyInfo.cs
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\kosar2004\kosar2004\obj\Debug\netcoreapp3.1\kosar2004.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\kosar2004\kosar2004\obj\Debug\netcoreapp3.1\kosar2004.dll
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\kosar2004\kosar2004\obj\Debug\netcoreapp3.1\kosar2004.pdb
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\kosar2004\kosar2004\obj\Debug\netcoreapp3.1\kosar2004.genruntimeconfig.cache
