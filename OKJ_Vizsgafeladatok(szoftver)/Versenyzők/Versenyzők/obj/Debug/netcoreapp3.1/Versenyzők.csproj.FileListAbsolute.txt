@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\Versenyzők\Versenyzők\obj\Debug\netcoreapp3.1\Versenyzők.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\Versenyzők\Versenyzők\obj\Debug\netcoreapp3.1\Versenyzők.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\Versenyzők\Versenyzők\obj\Debug\netcoreapp3.1\Versenyzők.AssemblyInfo.cs
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\Versenyzők\Versenyzők\obj\Debug\netcoreapp3.1\Versenyzők.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\Versenyzők\Versenyzők\bin\Debug\netcoreapp3.1\Versenyzők.exe
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\Versenyzők\Versenyzők\bin\Debug\netcoreapp3.1\Versenyzők.deps.json
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\Versenyzők\Versenyzők\bin\Debug\netcoreapp3.1\Versenyzők.runtimeconfig.json
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\Versenyzők\Versenyzők\bin\Debug\netcoreapp3.1\Versenyzők.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\Versenyzők\Versenyzők\bin\Debug\netcoreapp3.1\Versenyzők.dll
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\Versenyzők\Versenyzők\bin\Debug\netcoreapp3.1\Versenyzők.pdb
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\Versenyzők\Versenyzők\obj\Debug\netcoreapp3.1\Versenyzők.dll
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\Versenyzők\Versenyzők\obj\Debug\netcoreapp3.1\Versenyzők.pdb
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\Versenyzők\Versenyzők\obj\Debug\netcoreapp3.1\Versenyzők.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\Jackie\Jackie\bin\Debug\netcoreapp3.1\Jackie.exe
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\Jackie\Jackie\bin\Debug\netcoreapp3.1\Jackie.deps.json
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\Jackie\Jackie\bin\Debug\netcoreapp3.1\Jackie.runtimeconfig.json
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\Jackie\Jackie\bin\Debug\netcoreapp3.1\Jackie.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\Jackie\Jackie\bin\Debug\netcoreapp3.1\Jackie.dll
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\Jackie\Jackie\bin\Debug\netcoreapp3.1\Jackie.pdb
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\Jackie\Jackie\obj\Debug\netcoreapp3.1\Jackie.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\Jackie\Jackie\obj\Debug\netcoreapp3.1\Jackie.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\Jackie\Jackie\obj\Debug\netcoreapp3.1\Jackie.AssemblyInfo.cs
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\Jackie\Jackie\obj\Debug\netcoreapp3.1\Jackie.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\Jackie\Jackie\obj\Debug\netcoreapp3.1\Jackie.dll
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\Jackie\Jackie\obj\Debug\netcoreapp3.1\Jackie.pdb
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\Jackie\Jackie\obj\Debug\netcoreapp3.1\Jackie.genruntimeconfig.cache

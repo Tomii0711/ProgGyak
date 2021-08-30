@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\Operátorok\Operátorok\bin\Debug\netcoreapp3.1\Operátorok.exe
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\Operátorok\Operátorok\bin\Debug\netcoreapp3.1\Operátorok.deps.json
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\Operátorok\Operátorok\bin\Debug\netcoreapp3.1\Operátorok.runtimeconfig.json
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\Operátorok\Operátorok\bin\Debug\netcoreapp3.1\Operátorok.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\Operátorok\Operátorok\bin\Debug\netcoreapp3.1\Operátorok.dll
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\Operátorok\Operátorok\bin\Debug\netcoreapp3.1\Operátorok.pdb
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\Operátorok\Operátorok\obj\Debug\netcoreapp3.1\Operátorok.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\Operátorok\Operátorok\obj\Debug\netcoreapp3.1\Operátorok.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\Operátorok\Operátorok\obj\Debug\netcoreapp3.1\Operátorok.AssemblyInfo.cs
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\Operátorok\Operátorok\obj\Debug\netcoreapp3.1\Operátorok.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\Operátorok\Operátorok\obj\Debug\netcoreapp3.1\Operátorok.dll
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\Operátorok\Operátorok\obj\Debug\netcoreapp3.1\Operátorok.pdb
+C:\Users\admin\Desktop\Tomi\VS\OKJ_Vizsgafeladatok(szoftver)\Operátorok\Operátorok\obj\Debug\netcoreapp3.1\Operátorok.genruntimeconfig.cache
