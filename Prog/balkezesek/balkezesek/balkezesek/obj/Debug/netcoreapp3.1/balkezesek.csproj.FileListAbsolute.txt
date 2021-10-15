@@ -1,0 +1,13 @@
+Z:\Prog\balkezesek\balkezesek\bin\Debug\netcoreapp3.1\balkezesek.exe
+Z:\Prog\balkezesek\balkezesek\bin\Debug\netcoreapp3.1\balkezesek.deps.json
+Z:\Prog\balkezesek\balkezesek\bin\Debug\netcoreapp3.1\balkezesek.runtimeconfig.json
+Z:\Prog\balkezesek\balkezesek\bin\Debug\netcoreapp3.1\balkezesek.runtimeconfig.dev.json
+Z:\Prog\balkezesek\balkezesek\bin\Debug\netcoreapp3.1\balkezesek.dll
+Z:\Prog\balkezesek\balkezesek\bin\Debug\netcoreapp3.1\balkezesek.pdb
+Z:\Prog\balkezesek\balkezesek\obj\Debug\netcoreapp3.1\balkezesek.csprojAssemblyReference.cache
+Z:\Prog\balkezesek\balkezesek\obj\Debug\netcoreapp3.1\balkezesek.AssemblyInfoInputs.cache
+Z:\Prog\balkezesek\balkezesek\obj\Debug\netcoreapp3.1\balkezesek.AssemblyInfo.cs
+Z:\Prog\balkezesek\balkezesek\obj\Debug\netcoreapp3.1\balkezesek.csproj.CoreCompileInputs.cache
+Z:\Prog\balkezesek\balkezesek\obj\Debug\netcoreapp3.1\balkezesek.dll
+Z:\Prog\balkezesek\balkezesek\obj\Debug\netcoreapp3.1\balkezesek.pdb
+Z:\Prog\balkezesek\balkezesek\obj\Debug\netcoreapp3.1\balkezesek.genruntimeconfig.cache

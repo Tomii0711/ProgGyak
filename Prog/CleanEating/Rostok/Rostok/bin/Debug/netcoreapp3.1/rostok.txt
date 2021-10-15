@@ -1,0 +1,138 @@
+Megnevezés;Kategória;Egység;Rost
+Áfonya;Aszalt gyümölcsök;100g;7,5
+Áfonya;Friss gyümölcsök;100g;2,4
+Alma;Aszalt gyümölcsök;100g;11,2
+Alma;Friss gyümölcsök;100g;1,3
+Alma – Birsalma;Friss gyümölcsök;100g;5,9
+Alma – Gránátalma;Friss gyümölcsök;100g;2,2
+Alma – Zöldalma;Friss gyümölcsök;1db;5
+Ananász;Aszalt gyümölcsök;100g;4,3
+Ananász;Friss gyümölcsök;100g;0,4
+Árpagyöngy;Gabonák és lisztek;100g;1,5
+Avokádó;Friss gyümölcsök;100g;6,7
+Banán;Friss gyümölcsök;100g;2,6
+Banán;Friss gyümölcsök;1db;3,1
+Bazsalikom;Zöldségek;100g;3,1
+Brazil dió;Magvak;100g;9,6
+Brokkoli;Zöldségek;100g;0,8
+Bulgur;Gabonák és lisztek;100g;10,3
+Burgonya;Zöldségek;100g;0,6
+Búza – Puffasztott;Gabonák és lisztek;100g;2,5
+Búza (búzamag);Gabonák és lisztek;100g;1,7
+Búzakorpa;Gabonák és lisztek;100g;50,1
+Búzaliszt (finomított);Gabonák és lisztek;100g;0,2
+Cékla;Zöldségek;100g;0,9
+Citrom;Friss gyümölcsök;100g;2,2
+Citrom;Friss gyümölcsök;1db;1,6
+Cukkini;Zöldségek;100g;1,1
+Cseresznye;Aszalt gyümölcsök;100g;5,5
+Cseresznye;Friss gyümölcsök;100g;0,4
+Csicseriborsó;Zöldségek;100g;9,5
+Csicsóka;Zöldségek;100g;3,1
+Datolya;Aszalt gyümölcsök;100g;3,8
+Datolyaszilva;Friss gyümölcsök;100g;3,6
+Dió;Magvak;100g;2,8
+Édesburgonya;Zöldségek;100g;3
+Egres;Friss gyümölcsök;100g;2,7
+Eper;Aszalt gyümölcsök;100g;7,1
+Eper;Friss gyümölcsök;100g;0,8
+Fehérrépa;Zöldségek;100g;3,5
+Fokhagyma;Zöldségek;100g;0,8
+Földimogyoró;Magvak;100g;10,1
+Füge;Aszalt gyümölcsök;100g;6,5
+Füge;Friss gyümölcsök;100g;2,9
+Gesztenye;Magvak;100g;2,8
+Görögdinnye;Friss gyümölcsök;100g;0,8
+Grapefruit;Friss gyümölcsök;100g;0,4
+Gyömbér;Aszalt gyümölcsök;100g;5,9
+Hagyma – Lilahagyma;Zöldségek;100g;1,4
+Hagyma – Póréhagyma;Zöldségek;100g;1,3
+Hagyma – Újhagyma;Zöldségek;100g;2,8
+Hagyma – Vöröshagyma;Zöldségek;100g;0,7
+Hajdina;Gabonák és lisztek;100g;25,7
+Kajszibarack;Friss gyümölcsök;100g;0,8
+Káposzta;Zöldségek;100g;0,7
+Karalábé;Zöldségek;100g;0,8
+Karfiol;Zöldségek;100g;0,9
+Kelbimbó;Zöldségek;100g;1,4
+Kelkáposzta;Zöldségek;100g;0,6
+Kesudió;Magvak;100g;1,4
+Kínai kel;Zöldségek;100g;0,5
+Kiwi;Friss gyümölcsök;100g;0,8
+Kókusz;Friss gyümölcsök;100g;9
+Köles;Gabonák és lisztek;100g;1,1
+Körte;Aszalt gyümölcsök;100g;7,5
+Körte;Friss gyümölcsök;100g;2,6
+Kukorica;Zöldségek;100g;1,5
+Kukoricadara;Gabonák és lisztek;100g;9,2
+Kukoricakeményítő;Gabonák és lisztek;100g;1,1
+Kukoricaliszt;Gabonák és lisztek;100g;6
+Kuszkusz;Gabonák és lisztek;100g;5
+Lencse;Zöldségek;100g;11,7
+Lenmag;Magvak;100g;2,3
+Liszt – Graham liszt;Gabonák és lisztek;100g;19
+Liszt – Kókuszliszt;Gabonák és lisztek;100g;39
+Liszt – Konjacliszt;Gabonák és lisztek;100g;82,8
+Liszt – Lenmagliszt;Gabonák és lisztek;100g;27,9
+Liszt – Mandulaliszt;Gabonák és lisztek;100g;14
+Liszt – Rizsliszt;Gabonák és lisztek;100g;2,3
+Liszt- Zabpehelyliszt;Gabonák és lisztek;100g;10
+Mák;Magvak;100g;10
+Málna;Friss gyümölcsök;100g;5,6
+Mandarin;Friss gyümölcsök;100g;0,5
+Mandula;Magvak;100g;3,7
+Mangó;Aszalt gyümölcsök;100g;5,2
+Mangó;Friss gyümölcsök;100g;1,8
+Mazsola;Aszalt gyümölcsök;100g;2,8
+Meggy;Aszalt gyümölcsök;100g;4,3
+Meggy;Friss gyümölcsök;100g;0,3
+Mogyoró;Magvak;100g;3,2
+Napraforgó mag;Magvak;100g;6,3
+Narancs;Friss gyümölcsök;100g;0,5
+Nektarin;Friss gyümölcsök;100g;1,2
+Őszbarack;Friss gyümölcsök;100g;1
+Őszibarack;Aszalt gyümölcsök;100g;12,8
+Padlizsán;Zöldségek;100g;0,7
+Pamelo;Friss gyümölcsök;100g;1
+Papaya;Aszalt gyümölcsök;100g;12
+Papaya;Friss gyümölcsök;100g;1,8
+Papaya;Friss gyümölcsök;1db;5,5
+Paradicsom;Aszalt gyümölcsök;100g;12,3
+Paradicsom;Zöldségek;100g;0,5
+Paraj / Spenót;Zöldségek;100g;0,5
+Pisztácia;Magvak;100g;10,3
+Quinoa;Gabonák és lisztek;100g;5,9
+Retek;Zöldségek;100g;0,8
+Ribizli;Friss gyümölcsök;100g;4,3
+Ringló;Friss gyümölcsök;100g;0,6
+Rizs;Gabonák és lisztek;100g;0,5
+Rizs – Barna rizs;Gabonák és lisztek;100g;3,4
+Rozsliszt;Gabonák és lisztek;100g;1
+Saláta – Fejes saláta;Zöldségek;100g;0,6
+Saláta – Jégsaláta;Zöldségek;100g;1,2
+Sárgabarack;Aszalt gyümölcsök;100g;7,3
+Sárgadinnye;Aszalt gyümölcsök;100g;10,2
+Sárgadinnye;Friss gyümölcsök;100g;0,9
+Sárgarépa – Répa;Zöldségek;100g;1
+Sóska;Zöldségek;100g;0,5
+Sütőtök;Zöldségek;100g;0,7
+Szeder;Friss gyümölcsök;100g;4
+Szezámmag;Magvak;100g;11,9
+Szilva;Aszalt gyümölcsök;100g;1,6
+Szilva;Friss gyümölcsök;100g;0,5
+Szőlő;Friss gyümölcsök;100g;1,3
+Torma;Zöldségek;100g;7,5
+Tök;Zöldségek;100g;0,8
+Tökmag;Magvak;100g;6,3
+Tönkölybúza;Gabonák és lisztek;100g;8
+Uborka;Zöldségek;100g;0,6
+Vitaminpaprika;Zöldségek;100g;2
+Vöröskáposzta;Zöldségek;100g;2,5
+Zab;Gabonák és lisztek;100g;10,8
+Zabkorpa;Gabonák és lisztek;100g;27,8
+Zabliszt;Gabonák és lisztek;100g;6,5
+Zabpehely;Gabonák és lisztek;100g;1
+Zeller;Zöldségek;100g;1
+Zöldbab;Zöldségek;100g;1,3
+Zöldborsó – Cukorborsó;Zöldségek;100g;2,7
+Zöldpaprika (TV paprika);Zöldségek;100g;0,9

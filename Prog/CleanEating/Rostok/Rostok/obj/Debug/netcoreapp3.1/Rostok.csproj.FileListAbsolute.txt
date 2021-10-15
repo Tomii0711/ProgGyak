@@ -1,0 +1,14 @@
+\\suli\home\2021\2021t_G\2021t_bandur_ta\Prog\CleanEating\Rostok\Rostok\bin\Debug\netcoreapp3.1\Rostok.exe
+\\suli\home\2021\2021t_G\2021t_bandur_ta\Prog\CleanEating\Rostok\Rostok\bin\Debug\netcoreapp3.1\Rostok.deps.json
+\\suli\home\2021\2021t_G\2021t_bandur_ta\Prog\CleanEating\Rostok\Rostok\bin\Debug\netcoreapp3.1\Rostok.runtimeconfig.json
+\\suli\home\2021\2021t_G\2021t_bandur_ta\Prog\CleanEating\Rostok\Rostok\bin\Debug\netcoreapp3.1\Rostok.runtimeconfig.dev.json
+\\suli\home\2021\2021t_G\2021t_bandur_ta\Prog\CleanEating\Rostok\Rostok\bin\Debug\netcoreapp3.1\Rostok.dll
+\\suli\home\2021\2021t_G\2021t_bandur_ta\Prog\CleanEating\Rostok\Rostok\bin\Debug\netcoreapp3.1\Rostok.pdb
+\\suli\home\2021\2021t_G\2021t_bandur_ta\Prog\CleanEating\Rostok\Rostok\obj\Debug\netcoreapp3.1\Rostok.csproj.AssemblyReference.cache
+\\suli\home\2021\2021t_G\2021t_bandur_ta\Prog\CleanEating\Rostok\Rostok\obj\Debug\netcoreapp3.1\Rostok.GeneratedMSBuildEditorConfig.editorconfig
+\\suli\home\2021\2021t_G\2021t_bandur_ta\Prog\CleanEating\Rostok\Rostok\obj\Debug\netcoreapp3.1\Rostok.AssemblyInfoInputs.cache
+\\suli\home\2021\2021t_G\2021t_bandur_ta\Prog\CleanEating\Rostok\Rostok\obj\Debug\netcoreapp3.1\Rostok.AssemblyInfo.cs
+\\suli\home\2021\2021t_G\2021t_bandur_ta\Prog\CleanEating\Rostok\Rostok\obj\Debug\netcoreapp3.1\Rostok.csproj.CoreCompileInputs.cache
+\\suli\home\2021\2021t_G\2021t_bandur_ta\Prog\CleanEating\Rostok\Rostok\obj\Debug\netcoreapp3.1\Rostok.dll
+\\suli\home\2021\2021t_G\2021t_bandur_ta\Prog\CleanEating\Rostok\Rostok\obj\Debug\netcoreapp3.1\Rostok.pdb
+\\suli\home\2021\2021t_G\2021t_bandur_ta\Prog\CleanEating\Rostok\Rostok\obj\Debug\netcoreapp3.1\Rostok.genruntimeconfig.cache
